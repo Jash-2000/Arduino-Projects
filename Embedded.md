@@ -1,5 +1,4 @@
-# Arduino-Projects
-
+![](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/download1.png)
 ## What is an embedded device
 
 So part of the idea is that you want to be able to give enhanced functionality to a regular device but not add complexity to the device. So for instance, take the example of 
@@ -43,7 +42,7 @@ look not only does it work. It's gotta be working fast. It's gotta be working lo
 In this section, I will be introducing the Arduino IDE, actually the entire Arduino environment which involves the IDE, which is a software interface where you write the code and you compile it and upload it. The Arduino board is another element of the Arduino environment, and that actually involves a chip and the program that executes the code, but also the Arduino shields. The Arduino compatible shield, so a shield is basically add-on hardware. It comes, then you stack on top of the board, and you use that with, via library so you get a set of Arduino libraries, associated with each shield. So really the Arduino environment has three components, the IDE for programming, the board itself, and the shields. Additional Sensors and acuators add to the functionality.
 
 **Arduino board with Atmega328**
-![Arduino](https://www.google.com/imgres?imgurl=http%3A%2F%2Fcdn.differencebetween.net%2Fwp-content%2Fuploads%2F2019%2F03%2FDifference-Between-Arduino-and-Elegoo.png&imgrefurl=http%3A%2F%2Fwww.differencebetween.net%2Ftechnology%2Fdifference-between-arduino-and-elegoo%2F&tbnid=Ay6UDBbIqZ8pdM&vet=12ahUKEwjlh7WpruzvAhUESisKHRUZB7YQMygSegUIARDVAg..i&docid=rEJXMWCwJ_a9NM&w=1280&h=907&q=arduino&ved=2ahUKEwjlh7WpruzvAhUESisKHRUZB7YQMygSegUIARDVAg)
+![Arduino](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/download.png)
 
 Now, the ATmega328 that you're gonna be working with, and any microcontroller really, has let's say, broadly defined, two types of code running on the microcontroller. Okay. One type of code, we'll call application code. That is a code that you as a programmer are generally going to write. Okay. That is a program that doesn't come with the microcontroller, you write that for your particular application. So if you want to make an Arduino, you wanna build a system with an Arduino I don't know, something to sense if plants need to get watered. So it senses the humidity, it senses how wet it is, it waters the plants, something like that. You're gonna write code to do that and you would call that application code. So we write the code, or you, the programmer, write the code, and it executes the main functionality of the system, directly.
 
