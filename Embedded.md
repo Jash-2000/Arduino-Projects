@@ -1,4 +1,4 @@
-![](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/download1.png)
+![](https://github.com/Jash-2000/Arduino-Projects/blob/master/download1.png)
 ## What is an embedded device
 
 So part of the idea is that you want to be able to give enhanced functionality to a regular device but not add complexity to the device. So for instance, take the example of 
