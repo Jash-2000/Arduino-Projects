@@ -1,0 +1,3 @@
+-> Make a arduino logic for making a circuit that turns on light by clapping.
+-> Extending the reach for actual home appliances by using sockets.
+-> Using relays and start-up circuits for power control.
