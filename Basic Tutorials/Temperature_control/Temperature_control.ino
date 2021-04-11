@@ -1,4 +1,3 @@
-
 /*
  The LCD circuit:
  * LCD RS pin to digital pin 12
