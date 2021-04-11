@@ -6,7 +6,7 @@ This repository provides basic tutorial projects and other robotics projects for
 
 A basic firmware's automation loop is as follows:
 
-![Process Control](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/Control_Process.png)
+![Process Control](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/Control_Process.png)  To know more about Embedded Firmwares, click [here](https://github.com/Jash-2000/Arduino-Projects/blob/master/Embedded.md).
 
 ---
 
