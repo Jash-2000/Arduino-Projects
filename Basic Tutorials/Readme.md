@@ -3,12 +3,6 @@ The asset file in each project directory contains the link to the TinkerCAD, wir
 
 ---
 
-## Description of each sketch.
-
-  * **Clap** - This sketch contains a simple application wherein the user can control all the home applicances by making clapping patterns. This project can also be extended to an IoT project and the code base for it is contained in the **IoT subdirectory** inside the clap folder.
-  * 
----
-
 Apart from my tutorials, I would refer everyone to refer Jeremy Blum's Book Titled [Exploring Arduino: Techniques in Engineering Wizardry](https://www.amazon.in/Exploring-Arduino-Techniques-Engineering-Wizardry/dp/1118549368#:~:text=Learn%20to%20easily%20build%20gadgets,%2C%20and%20human%2Dcomputer%20interaction.)
 
 ![51VrjgDxUnL _AC_UL600_SR600,600_](https://user-images.githubusercontent.com/47540320/114089723-1e134480-98d4-11eb-90af-ed42d3f1ad34.jpg)
