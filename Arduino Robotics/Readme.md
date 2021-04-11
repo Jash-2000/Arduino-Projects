@@ -58,8 +58,6 @@ Demo:<br>
 
 Build a sonar using arduino, a servo, and a ping and visualize it as a radar with Processing.
 
-it deserved its own repository:
-https://github.com/TaniaMol/ArduinoRadar
 
 # Ava's Traffic Intersection
 (Week 4):
@@ -100,7 +98,6 @@ Code that didn't work and you are welcome to suggest any improvements:
 
 ```C++
 //Ava's TRAFFIC INTERSECTION
-//Author: Niam Moltta
 
 #include <Servo.h>
 #define SENSOR A0
@@ -361,7 +358,6 @@ Schematics:
 Code:
 ```C++
 //Coward Robot
-//Author: Niam Moltta
 //this coward Starts reversing when it founds something close.
 
 #define E1 10  // Enable Pin for motor 1
