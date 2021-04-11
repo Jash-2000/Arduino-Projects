@@ -1,9 +1,3 @@
-/*
-Task 2 : Measure temparature and light intesnity in your surroundings and display it on LCD.
-buzzer and led blinkes if more than threshhold  
-
-materials given : temp sensor,light sensor,led sensor,lcd display.
- */
 
 /*
  The LCD circuit:

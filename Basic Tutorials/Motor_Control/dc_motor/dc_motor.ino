@@ -1,4 +1,3 @@
-// TBD
 
 int motorPin = 9;
 
@@ -27,4 +26,3 @@ void loop()
   // Hold at zero
   delay(500);
 }
-
