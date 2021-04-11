@@ -1,14 +1,3 @@
-//  _ ___ _______     ___ ___ ___  ___ _   _ ___ _____ ___ 
-// / |_  )__ /   \   / __|_ _| _ \/ __| | | |_ _|_   _/ __| 
-// | |/ / |_ \ |) | | (__ | ||   / (__| |_| || |  | | \__ \ 
-// |_/___|___/___/   \___|___|_|_\\___|\___/|___| |_| |___/ 
-// 
-// Semáforo Arduino
-// 
-// Author: Niam Moltta
-// License: MIT
-// Downloaded from: https://circuits.io/circuits/3642162-semaforo-arduino
-
 // the setup routine runs once when you press reset:
 void setup() {
   // initialize the digital pin as an output.
