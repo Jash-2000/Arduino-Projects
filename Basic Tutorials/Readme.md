@@ -5,7 +5,7 @@ The asset file in each project directory contains the link to the TinkerCAD, wir
 
 ## Description of each sketch.
 
-  * Clap - This sketch contains a simple application wherein the user can control all the home applicances by making clapping patterns. This project can also be extended to an IoT project and the code base for it is contained in the **IoT subdirectory** inside the clap folder.
+  * **Clap** - This sketch contains a simple application wherein the user can control all the home applicances by making clapping patterns. This project can also be extended to an IoT project and the code base for it is contained in the **IoT subdirectory** inside the clap folder.
   * 
 ---
 
