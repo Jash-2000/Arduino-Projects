@@ -1,28 +1,12 @@
 # Arduino Tutorials
 
-![](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/download.png)
+![Arduino](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/download.png)
 
 This repository provides basic tutorial projects and other robotics projects for starting to work with arduino.
 
 A basic firmware's automation loop is as follows:
 
-![](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/Control_Process.png)
-
----
- 
-## Simple Tutorials
-
-
----
-
-
-## Sensor Integration Projects
-
-
----
-
-## Other Advanced Projects
-
+![Process Control](https://github.com/Jash-2000/Arduino-Projects/blob/master/Images/Control_Process.png)
 
 ---
 
